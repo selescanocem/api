@@ -1,0 +1,1 @@
+[08-Apr-2021 20:26:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/m9riui6cpbva/public_html/api-pruebas/class/RestCuentaPorPagar.php on line 69

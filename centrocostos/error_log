@@ -1,0 +1,94 @@
+[07-Jan-2021 15:49:23 UTC] PHP Notice:  Undefined index: nombrecentrocostos in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 59
+[07-Jan-2021 15:50:11 UTC] PHP Notice:  Undefined index: nombrecentrocostos in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 59
+[07-Jan-2021 15:53:54 UTC] PHP Notice:  Undefined index: nombreconcepto in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 83
+[07-Jan-2021 15:53:54 UTC] PHP Notice:  Undefined index: montorelacionconcepto in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 84
+[07-Jan-2021 15:53:54 UTC] PHP Notice:  Undefined index: idcentrocostos in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 85
+[07-Jan-2021 15:56:23 UTC] PHP Notice:  Undefined index: nombreconcepto in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 83
+[07-Jan-2021 15:56:23 UTC] PHP Notice:  Undefined index: montorelacionconcepto in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 84
+[07-Jan-2021 15:56:23 UTC] PHP Notice:  Undefined index: idcentrocostos in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 85
+[07-Jan-2021 15:56:23 UTC] PHP Notice:  Undefined variable: mysqli in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 94
+[07-Jan-2021 15:56:23 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 94
+[07-Jan-2021 15:57:54 UTC] PHP Notice:  Undefined index: nombrecentrocostos in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 59
+[07-Jan-2021 16:00:07 UTC] PHP Notice:  Undefined index: nombrecentrocostos in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 59
+[07-Jan-2021 16:00:07 UTC] PHP Notice:  Array to string conversion in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 65
+[07-Jan-2021 16:01:11 UTC] PHP Notice:  Undefined index: nombrecentrocostos in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 59
+[07-Jan-2021 16:01:11 UTC] PHP Notice:  Array to string conversion in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 65
+[07-Jan-2021 16:01:35 UTC] PHP Notice:  Undefined index: nombrecentrocostos in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 59
+[07-Jan-2021 16:01:35 UTC] PHP Notice:  Array to string conversion in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 65
+[07-Jan-2021 16:01:59 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 65
+[07-Jan-2021 16:03:52 UTC] PHP Notice:  Undefined index: nombrecentrocostos in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 59
+[07-Jan-2021 16:07:08 UTC] PHP Notice:  Undefined index: nombrecentrocostos in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 59
+[07-Jan-2021 16:18:25 UTC] PHP Notice:  Undefined index: idconcepto in /home/m9riui6cpbva/public_html/api/centrocostos/listarconceptos.php on line 8
+[07-Jan-2021 16:19:31 UTC] PHP Notice:  Undefined index: idconcepto in /home/m9riui6cpbva/public_html/api/centrocostos/listarconceptos.php on line 8
+[07-Jan-2021 16:19:51 UTC] PHP Notice:  Undefined index: idconcepto in /home/m9riui6cpbva/public_html/api/centrocostos/listarconceptos.php on line 8
+[07-Jan-2021 16:20:17 UTC] PHP Notice:  Undefined index: idcentrocostos in /home/m9riui6cpbva/public_html/api/centrocostos/listarconceptos.php on line 8
+[07-Jan-2021 16:20:57 UTC] PHP Notice:  Undefined index: idcentrocostos in /home/m9riui6cpbva/public_html/api/centrocostos/listarconceptos.php on line 8
+[07-Jan-2021 16:21:05 UTC] PHP Notice:  Undefined index: idcentrocostos in /home/m9riui6cpbva/public_html/api/centrocostos/listarconceptos.php on line 8
+[07-Jan-2021 16:22:12 UTC] PHP Notice:  Undefined index: idcentrocostos in /home/m9riui6cpbva/public_html/api/centrocostos/listarconceptos.php on line 8
+[07-Jan-2021 16:45:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 63
+[07-Jan-2021 16:46:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 63
+[07-Jan-2021 16:47:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 63
+[07-Jan-2021 17:12:32 UTC] PHP Notice:  Undefined index: idcentrocostos in /home/m9riui6cpbva/public_html/api/centrocostos/listarconceptos.php on line 8
+[07-Jan-2021 21:30:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 63
+[07-Jan-2021 22:46:05 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php:31
+Stack trace:
+#0 /home/m9riui6cpbva/public_html/api/centrocostos/listarcentrocostos.php(7): RestCentroCosto->ListarCentroCosto()
+#1 {main}
+  thrown in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 31
+[07-Jan-2021 22:49:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php:36
+Stack trace:
+#0 /home/m9riui6cpbva/public_html/api/centrocostos/listarcentrocostos.php(7): RestCentroCosto->ListarCentroCosto()
+#1 {main}
+  thrown in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 36
+[07-Jan-2021 22:57:53 UTC] PHP Notice:  Array to string conversion in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 38
+[07-Jan-2021 22:58:30 UTC] PHP Notice:  Array to string conversion in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 38
+[07-Jan-2021 23:36:07 UTC] PHP Notice:  Undefined index: idcanalcentrocostos in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 151
+[07-Jan-2021 23:45:07 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 5
+[07-Jan-2021 23:46:06 UTC] PHP Notice:  Undefined property: RestCentroCosto::$host in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:46:06 UTC] PHP Notice:  Undefined property: RestCentroCosto::$user in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:46:06 UTC] PHP Notice:  Undefined property: RestCentroCosto::$password in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:46:06 UTC] PHP Notice:  Undefined property: RestCentroCosto::$database in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:46:06 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'm9riui6cpbva'@'localhost' (using password: NO) in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:47:18 UTC] PHP Notice:  Undefined variable: host in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:47:18 UTC] PHP Notice:  Undefined variable: user in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:47:18 UTC] PHP Notice:  Undefined variable: password in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:47:18 UTC] PHP Notice:  Undefined variable: database in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:47:18 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'm9riui6cpbva'@'localhost' (using password: NO) in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:48:03 UTC] PHP Notice:  Undefined variable: host in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:48:03 UTC] PHP Notice:  Undefined variable: user in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:48:03 UTC] PHP Notice:  Undefined variable: password in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:48:03 UTC] PHP Notice:  Undefined variable: database in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:48:03 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'm9riui6cpbva'@'localhost' (using password: NO) in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:48:03 UTC] PHP Notice:  Undefined variable: host in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 13
+[07-Jan-2021 23:49:26 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting function (T_FUNCTION) or const (T_CONST) in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 5
+[07-Jan-2021 23:50:19 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting function (T_FUNCTION) or const (T_CONST) in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 5
+[07-Jan-2021 23:50:40 UTC] PHP Notice:  Undefined variable: host in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:50:40 UTC] PHP Notice:  Undefined variable: user in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:50:40 UTC] PHP Notice:  Undefined variable: password in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:50:40 UTC] PHP Notice:  Undefined variable: database in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:50:40 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'm9riui6cpbva'@'localhost' (using password: NO) in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:50:40 UTC] PHP Notice:  Undefined variable: host in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 13
+[07-Jan-2021 23:53:41 UTC] PHP Notice:  Undefined variable: host in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:53:41 UTC] PHP Notice:  Undefined variable: user in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:53:41 UTC] PHP Notice:  Undefined variable: password in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:53:41 UTC] PHP Notice:  Undefined variable: database in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:53:41 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'm9riui6cpbva'@'localhost' (using password: NO) in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:53:41 UTC] PHP Notice:  Undefined variable: host in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 13
+[07-Jan-2021 23:55:04 UTC] PHP Notice:  Undefined variable: host in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:55:04 UTC] PHP Notice:  Undefined variable: user in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:55:04 UTC] PHP Notice:  Undefined variable: password in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:55:04 UTC] PHP Notice:  Undefined variable: database in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:55:04 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'm9riui6cpbva'@'localhost' (using password: NO) in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 11
+[07-Jan-2021 23:55:04 UTC] PHP Notice:  Undefined variable: host in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 13
+[07-Jan-2021 23:56:43 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE), expecting ')' in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 13
+[08-Jan-2021 16:38:53 UTC] PHP Notice:  Undefined variable: respeusta in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 46
+[18-Jan-2021 17:37:31 UTC] PHP Notice:  Undefined index: idconcepto in /home/m9riui6cpbva/public_html/api/centrocostos/listarcanal.php on line 8
+[18-Jan-2021 17:38:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method RestCentroCosto::ListarCanal() in /home/m9riui6cpbva/public_html/api/centrocostos/listarcanal.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/m9riui6cpbva/public_html/api/centrocostos/listarcanal.php on line 10
+[18-Jan-2021 17:42:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method RestCentroCosto::ListarCanal() in /home/m9riui6cpbva/public_html/api/centrocostos/listarcanales.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/m9riui6cpbva/public_html/api/centrocostos/listarcanales.php on line 10
+[18-Jan-2021 17:43:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/m9riui6cpbva/public_html/api/class/RestCentroCosto.php on line 109

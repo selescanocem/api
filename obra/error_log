@@ -1,0 +1,11 @@
+[07-Jan-2021 21:30:07 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/m9riui6cpbva/public_html/api/obra/listarobraporempresa.php on line 8
+[07-Jan-2021 21:30:24 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/m9riui6cpbva/public_html/api/obra/listarobraporempresa.php on line 8
+[07-Jan-2021 21:31:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method RestObra::ListarObrasPorEmpresa() in /home/m9riui6cpbva/public_html/api/obra/listarobraporempresa.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/m9riui6cpbva/public_html/api/obra/listarobraporempresa.php on line 10
+[07-Jan-2021 21:31:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method RestObra::ListarObrasPorEmpresa() in /home/m9riui6cpbva/public_html/api/obra/listarobraporempresa.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/m9riui6cpbva/public_html/api/obra/listarobraporempresa.php on line 10
+[09-Jan-2021 15:41:58 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/m9riui6cpbva/public_html/api/class/RestObra.php on line 17
